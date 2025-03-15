@@ -1,0 +1,11 @@
+# Ignorar archivos de entorno
+.env
+
+# Ignorar archivos de dependencias
+node_modules/
+venv/
+
+# Ignorar archivos de compilación
+__pycache__/
+*.pyc
+
